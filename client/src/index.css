@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.cl-formButtonPrimary {
+  background-color: #6366f1 !important;
+  color: white !important;
+  text-transform: none !important;
+  font-size: 0.875rem !important;
+  border: 0;
+}
+
+.cl-formButtonPrimary:hover {
+  background-color: #818cf8 !important;
+}
